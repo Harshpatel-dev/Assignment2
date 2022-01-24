@@ -1,0 +1,15 @@
+D:\.NET\CollageWork\Assignment 2\BranchesAndLoops\bin\Debug\net6.0\BranchesAndLoops.exe
+D:\.NET\CollageWork\Assignment 2\BranchesAndLoops\bin\Debug\net6.0\BranchesAndLoops.deps.json
+D:\.NET\CollageWork\Assignment 2\BranchesAndLoops\bin\Debug\net6.0\BranchesAndLoops.runtimeconfig.json
+D:\.NET\CollageWork\Assignment 2\BranchesAndLoops\bin\Debug\net6.0\BranchesAndLoops.dll
+D:\.NET\CollageWork\Assignment 2\BranchesAndLoops\bin\Debug\net6.0\ref\BranchesAndLoops.dll
+D:\.NET\CollageWork\Assignment 2\BranchesAndLoops\bin\Debug\net6.0\BranchesAndLoops.pdb
+D:\.NET\CollageWork\Assignment 2\BranchesAndLoops\obj\Debug\net6.0\BranchesAndLoops.csproj.AssemblyReference.cache
+D:\.NET\CollageWork\Assignment 2\BranchesAndLoops\obj\Debug\net6.0\BranchesAndLoops.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\CollageWork\Assignment 2\BranchesAndLoops\obj\Debug\net6.0\BranchesAndLoops.AssemblyInfoInputs.cache
+D:\.NET\CollageWork\Assignment 2\BranchesAndLoops\obj\Debug\net6.0\BranchesAndLoops.AssemblyInfo.cs
+D:\.NET\CollageWork\Assignment 2\BranchesAndLoops\obj\Debug\net6.0\BranchesAndLoops.csproj.CoreCompileInputs.cache
+D:\.NET\CollageWork\Assignment 2\BranchesAndLoops\obj\Debug\net6.0\BranchesAndLoops.dll
+D:\.NET\CollageWork\Assignment 2\BranchesAndLoops\obj\Debug\net6.0\ref\BranchesAndLoops.dll
+D:\.NET\CollageWork\Assignment 2\BranchesAndLoops\obj\Debug\net6.0\BranchesAndLoops.pdb
+D:\.NET\CollageWork\Assignment 2\BranchesAndLoops\obj\Debug\net6.0\BranchesAndLoops.genruntimeconfig.cache
